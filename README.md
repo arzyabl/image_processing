@@ -7,7 +7,7 @@ This project implements an applications for low level image processing. Areas co
 Prereqs: java, javac, a .jpg file.
 
 1. Check if you have `java` and `javac` by running the following commands:
-![]('assets/commands_java.png')
+![]('./assets/commands_java.png')
 
 2. If you see something like this, you need to install the java
 development kit (jdk)  via [Orance]('https://www.oracle.com/java/technologies/downloads/').
